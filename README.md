@@ -1,13 +1,12 @@
-## ✅ TaskFlow — Task Management Application
+# ✅ TaskFlow — Task Management Application
 
-A full-stack style Task Management Web Application built with **React + Vite**
-## 🚀 Live Demo
-
-> Run locally using the steps below.
+A Task Management Web Application built with **React + Vite**
 
 ## 📸 Preview
 
-![TaskFlow Preview](./screenshots/preview.png)
+![TaskFlow Preview](./src/screenshots/preview.png.jpeg)
+
+---
 
 ## ✨ Features
 
@@ -20,6 +19,7 @@ A full-stack style Task Management Web Application built with **React + Vite**
 - ⚠️ **Overdue Detection** — Highlights tasks past their due date
 - 📱 **Responsive Design** — Works on web and mobile screens
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -28,35 +28,31 @@ A full-stack style Task Management Web Application built with **React + Vite**
 | React 18 | UI Framework |
 | Vite | Build Tool & Dev Server |
 | JavaScript (ES6+) | Logic & State Management |
-| CSS-in-JS | Styling with CSS Variables |
 
+---
 
 ## 📦 Installation & Setup
 
 ### 1. Clone the repository
-
-```bash
+\```bash
 git clone https://github.com/Rishana15/taskflow.git
 cd taskflow
-```
+\```
 
 ### 2. Install dependencies
-
-```bash
+\```bash
 npm install
-```
+\```
 
 ### 3. Start the development server
-
-```bash
+\```bash
 npm run dev
-```
+\```
 
 ### 4. Open in browser
-
-```
+\```
 http://localhost:5173
-```
+\```
 
 ---
 
@@ -69,38 +65,7 @@ http://localhost:5173
 
 ---
 
-## 📁 Project Structure
-
-```
-taskflow/
-├── src/
-│   ├── App.jsx        # Main application component
-│   ├── main.jsx       # Entry point
-│   └── index.css      # Global styles
-├── public/
-├── index.html
-├── package.json
-└── vite.config.js
-```
-
----
-
-## 🎯 Expected Outcomes
-- ✅ Learned full-stack application structure
-- ✅ API integration ready (Anthropic Claude API compatible)
-- ✅ Dynamic data handling with React useReducer
-- ✅ Component-based architecture
-
----
-
 ## 👩‍💻 Author
 
 **Rishana**
 GitHub: [@Rishana15](https://github.com/Rishana15)
-
----
-
-## 📅 Submission
-
-![TaskFlow Preview](./screenshots/preview.png)
-
