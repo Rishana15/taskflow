@@ -1,7 +1,6 @@
 ## ✅ TaskFlow — Task Management Application
 
-A full-stack style Task Management Web Application built with **React + Vite**, developed as part of the Thiranex Skill Development Program (Task #2).
-
+A full-stack style Task Management Web Application built with **React + Vite**
 ## 🚀 Live Demo
 
 > Run locally using the steps below.
